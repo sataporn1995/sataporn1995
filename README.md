@@ -41,5 +41,11 @@ Here are some ideas to get you started:
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177539892-13dafea4-69f0-43eb-8cf0-283b967f1f6e.png" />
 </p>
 
+### 👨‍💻 IIoT
+<p>
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177541541-2e1cc2a4-5204-49e1-8cbf-e7bb02fc46be.png" />
+</p>
+
+
 
 
