@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177539669-028c1779-fabf-4b70-855c-d8f9ae24c447.png" />
 </p>
 
-### 👨‍💻 Web development
+### 👨‍💻 Web Development
 <p>
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177538339-22ee9e45-fb63-4cf7-b3e1-9f8f029b79c8.png" />
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177538450-53bf9a93-b935-4aae-a639-735397f5dc99.png" />
