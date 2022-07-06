@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm a Full-Stack Developer and IIoT Engineer.
+<p align="center"><b>Hi, I'm a Full-Stack Developer and IIoT Engineer.</b></p>
 
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" align="center" />
+<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" align="center" /></p>
+
 
 ### Programming Languages 👨‍💻
