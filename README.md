@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" align="center" /></p>
 
 <!-- <img width="30" src="" /> -->
-### 👨‍💻 Programming Languages & Tools
+### 👨‍💻 Programming & Tools
 <p>
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177534413-937a5a5c-c577-40c1-a38a-d8ec2336d32b.png" /> <!-- JS -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177535150-eeb1f859-1f06-4173-8fdc-22246d849410.png" /> <!-- TS -->
