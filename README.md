@@ -23,17 +23,24 @@ Here are some ideas to get you started:
 ### 👨‍💻 Programming Languages 
 <p>
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177534413-937a5a5c-c577-40c1-a38a-d8ec2336d32b.png" />
-  <img width="30" src="https://user-images.githubusercontent.com/101156187/177534656-87012589-0617-4479-9183-55c32f56fbcb.png" />
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177535150-eeb1f859-1f06-4173-8fdc-22246d849410.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177534656-87012589-0617-4479-9183-55c32f56fbcb.png" />
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177535274-21ce4d82-50d7-4744-ae9e-07407d8fd707.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177535701-1448d544-bbf9-4fe9-b852-bfa1a486371b.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177536095-da101dec-58e7-4c27-aba8-c762f57ad133.png" />
+</p>
+
+### 👨‍💻 Web development
+<p>
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177538339-22ee9e45-fb63-4cf7-b3e1-9f8f029b79c8.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177538450-53bf9a93-b935-4aae-a639-735397f5dc99.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177538506-8e358b7b-51c7-4c91-adbf-291d5be738a1.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177539114-03a568c5-8e73-480a-9701-d5e9e0e4d50c.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177538861-e1d41a7d-0397-4b60-acf5-bbe69abc5708.png" />
 </p>
 
 
- 
 
-
-<!-- HTML -->
-<img width="50" src="https://user-images.githubusercontent.com/101156187/177533756-a5770a87-f854-43cf-826c-e43531f6012a.png" /><!-- CSS --><img width="50" src="https://user-images.githubusercontent.com/101156187/177534044-e464c8e1-87c3-47bf-9535-27d3bffdbdb5.png" />
 
 
 
