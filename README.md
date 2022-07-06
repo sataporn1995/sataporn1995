@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img width="30" src="https://user-images.githubusercontent.com/101156187/177541541-2e1cc2a4-5204-49e1-8cbf-e7bb02fc46be.png" />
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/177541541-2e1cc2a4-5204-49e1-8cbf-e7bb02fc46be.png" /> 
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177542414-3d67ea6e-7c6b-404a-945a-0b428faa0604.png" />
 </p>
 
