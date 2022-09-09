@@ -54,9 +54,24 @@ Here are some ideas to get you started:
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177673962-6d68581d-935e-43ec-9c18-6c9dae68dc2d.png" /> <!-- Node.js -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177541541-2e1cc2a4-5204-49e1-8cbf-e7bb02fc46be.png" /> <!-- Node-RED -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177673181-3c1b6dd4-8bb9-4668-9391-145868ab6d30.png" /> <!-- Flask Python -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264453-fe459e76-2246-47d6-9c95-c5192962f310.png" /> <!-- Django Python -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177542414-3d67ea6e-7c6b-404a-945a-0b428faa0604.png" /> <!-- MSSQL -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177542737-90a4cf43-95bf-410a-837e-19f5689120a1.png" /> <!-- MySQL -->
 </p>
+
+### 👨‍💻 Computer Vision
+<p>
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264940-e1cb246a-6f24-4608-adf6-47b96f729304.png" /> <!-- OpenCV -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264826-1e81b5e6-a15d-41e1-861c-862710d5aeb8.png" /> <!-- TensorFlow -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264719-da0501c4-b1a9-4706-8c18-57b440647d5c.png" /> <!-- PyTorch -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264869-bb40739f-4a5c-47fa-a970-412276ccbd5b.png" /> <!-- YOLO -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189264999-738320c2-3dd6-40de-a780-5aa3a23ae00a.png" /> <!-- Scikit-Learn -->
+</p>
+
+
+
+
+
  
 
 
