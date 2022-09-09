@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <img width="30" src="https://user-images.githubusercontent.com/101156187/189264453-fe459e76-2246-47d6-9c95-c5192962f310.png" /> <!-- Django Python -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177542414-3d67ea6e-7c6b-404a-945a-0b428faa0604.png" /> <!-- MSSQL -->
   <img width="30" src="https://user-images.githubusercontent.com/101156187/177542737-90a4cf43-95bf-410a-837e-19f5689120a1.png" /> <!-- MySQL -->
+  <img width="30" src="https://user-images.githubusercontent.com/101156187/189265178-cd74fbf2-2f90-4b59-8d73-99d510807497.png" /> <!-- MongoDB -->
 </p>
 
 ### 👨‍💻 Computer Vision
