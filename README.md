@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" align="center" /></p>
 
 ### 😄 About me
-- 📫 How to reach me: sataporn2538@gmail.com
+- 📫 How to reach me: satapornchai2538@gmail.com
 
 <!-- <img width="30" src="" /> -->
 ### 👨‍💻 Programming Languages
